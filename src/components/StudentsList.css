@@ -1,0 +1,13 @@
+/* StudentList.css */
+.student-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.student-list li {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
